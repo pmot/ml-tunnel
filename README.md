@@ -1,2 +1,2 @@
 # ml-tunnel
-Cellular aggregation
+Aggregates two links
